@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MATACS-TH-2026-02: AI Proposal Triage Design
 
 **Name:** Hamza Jabbar
@@ -18,3 +19,6 @@ Proposals A to E are referred to by letter only.
 ## How I used AI tools
 I used Claude to help structure the design, draft the prompts, and check the sample ranking against the stated requirements. I reviewed the output rather than accepting it blindly: in particular, I treated Proposal B as ineligible because the bidder itself does not confirm that it holds the required Ontario electrical contractor licence; a subcontractor whose identity is still to be confirmed is not the same evidence. I also kept Proposal D out of the ranked list because its completion schedule is not stated and needs human clarification.
 
+=======
+# matacs-th-2026-02
+>>>>>>> 7ba724789d0fbc54878b86863aa98a89ee7a043d
